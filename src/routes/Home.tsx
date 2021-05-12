@@ -1,7 +1,6 @@
 const Home = () => {
   return (  
     <main>
-      ssss
     </main>
   );
 }
